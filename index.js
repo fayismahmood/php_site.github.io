@@ -1,6 +1,2 @@
-<html>
-<body>
-Fay
-</body>
+document.write("dfasdfdsfsdfsd");
 
-</html>
